@@ -1,2 +1,2 @@
 # Blinkit_PowerBI_Dashboard
-Power BI sales analysis dashboard for Blinkit, providing insights into revenue, outlet performance, product categories, and customer trends using data visualization and business intelligence techniques.
+📊 Power BI sales analysis dashboard for Blinkit, delivering actionable business insights on 💰 revenue, 🏪 outlet performance, 🛒 product categories, and 📈 sales trends using data visualization and business intelligence.
